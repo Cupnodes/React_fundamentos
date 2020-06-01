@@ -1,0 +1,13 @@
+#inputStep {
+    font-size: 1.1em;
+    width: 200px;
+    font-weight: bold;
+}
+
+.btn-group {
+    margin: 10px;
+}
+
+.btn-group button {
+    margin: 0 10px;
+}   

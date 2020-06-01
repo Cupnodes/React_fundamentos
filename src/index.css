@@ -17,6 +17,16 @@ body {
     font-size: 2rem;   
 }
 
+button {
+    background-color: #14afcd;
+    color: #fff;
+    font-size: 1.1em;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
 .card-box{
     display: flex;
     flex-flow: row wrap;
