@@ -35,3 +35,9 @@ button {
     width: 90vw;
     margin: 0 auto;
 }
+
+h1{
+    font-style: italic;
+    font-family: 'roboto';
+    font-weight: 200;
+}

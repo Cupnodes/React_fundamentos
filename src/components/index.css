@@ -1,0 +1,9 @@
+#footer {
+    text-align: center;   
+    background: linear-gradient(135deg, rgb(10, 79, 163), rgb(14, 122, 255));
+    color: #fff;
+    width: 100%;
+    padding: 40px 0;
+    font-weight: lighter;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
